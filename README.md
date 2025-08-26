@@ -79,7 +79,7 @@ A precharge circuit was implemented using two PMOS transistors:
 
 **Verification:** Waveforms show voltage drop on BL/BL_BAR depending on stored value, validating the read process.
 
-### - View the [waveforms](https://your-link-here.com) for this project.
+### - View the [waveforms](https://github.com/yaman-tewatia/S-RAM/tree/main/waveforms) for this project.
 
 ## 3. Layout
 
@@ -102,7 +102,7 @@ All devices and interconnects were drawn following **absolute design rules**.
 
 - Layout vs. Schematic (LVS): Verified, layout matches schematic.
 
-### - View the [layout](https://your-link-here.com) for this project.
+### - View the [layout](https://github.com/yaman-tewatia/S-RAM/tree/main/Layout) for this project.
 
 ## 4. Results
 
@@ -148,7 +148,7 @@ The 6T SRAM cell was analyzed at both 90nm and 45nm nodes, focusing on Write Pow
 | 90 nm    | 18.79     | 11.55     | 38.5     |
 | 45 nm   | 1510     | 626.77     | 58.5     |
 
-### - View the [results](https://your-link-here.com) for this project.
+### - View the [results](https://github.com/yaman-tewatia/S-RAM/tree/main/results) for this project.
 
 ### Conclusion
 
