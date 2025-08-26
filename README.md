@@ -48,7 +48,7 @@ A precharge circuit was implemented using two PMOS transistors:
 - When BL_EN = Low, PMOS devices turn ON.
 
 - Both BL and BL_BAR are precharged to VDD prior to a read operation.
-### - View the [schematics](https://your-link-here.com) for this project.
+### - View the [schematics](https://github.com/yaman-tewatia/S-RAM/tree/main/schematic) for this project.
 
 
 
