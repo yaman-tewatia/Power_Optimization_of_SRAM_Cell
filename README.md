@@ -10,7 +10,7 @@ This project focuses on the design and analysis of a 6T SRAM cell at 90nm and 45
 - Verified read, write, and hold operations using transient simulations.
 - Analyzed power scaling trends across technology nodes (90nm vs. 45nm).
 - Implemented stacking technique for leakage reduction in hold mode.
-**Tools & Technologies:** Cadence Virtuoso, GPDK-90, GPDK-45 (Generic Process Design Kit)
+- **Tools & Technologies:** Cadence Virtuoso, GPDK-90, GPDK-45 (Generic Process Design Kit)
 
 ## 1. Schematic
 ### 6T SRAM Cell
