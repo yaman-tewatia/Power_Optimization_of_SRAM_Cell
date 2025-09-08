@@ -1,4 +1,9 @@
 
+# Power Optimization of 6T SRAM Cell with Scaling Analysis at 90nm and 45nm
+
+
+
+
 ## Introduction
 
 This project focuses on the design and analysis of a 6T SRAM cell at 90nm and 45nm technology nodes using Cadence Virtuoso.
@@ -85,16 +90,20 @@ A precharge circuit was implemented using two PMOS transistors:
 
 The 6T SRAM layout was created in Cadence Virtuoso using the GPDK90.
 
-All devices and interconnects were drawn following **absolute design rules**.
+All devices and interconnects were drawn following **Micron design rules**.
 ### Design Rules Followed (GPDK90)
-| Parameter | Minimum Value |
-|----------|----------|
-| Metal width (M1)    | 0.12 um     |
-| Metal–Metal spacing    | 0.12 um     |
-| Poly width   | 0.06 um     |
-| Poly–Poly spacing    | 0.12 um     |
-| Contact/Via size   | 0.12 um X 0.12 um     |
-| N-well to N-well spacing   | 0.12um     |
+| Parameter                  | Value            |
+|----------------------------|------------------|
+| Technology Node            | 90nm             |
+| Nominal Power Supply (VDD) | 1.2 V            |
+| Metal1-Metal1 Spacing      | 0.12 µm          |
+| Nwell-Nwell Spacing        | 0.6/1.2 µm       |
+| Contact Size               | 0.12 × 0.12 µm   |
+| Contact-Contact Spacing    | 0.14 µm          |
+| Poly Width                 | 0.09 µm          |
+| Poly-Poly Spacing          | 0.14 µm          |
+
+
 
 ### Verification
 
